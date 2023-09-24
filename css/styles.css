@@ -13,20 +13,20 @@ a {text-decoration: none;}
         
                 .header-navigation-link {color: #4D5AE5;
                     font-size: 18px;
-                    font-family: Raleway;
+                    font-family:'Raleway',sans-serif;
                     font-weight: 700;
                     text-transform: uppercase;
-                    line-height: 1.16;
+                    line-height: 1.17;
                     letter-spacing: 0.03em;
                     word-wrap: break-word}
         
                 .header-link-studio {
                     color: #2E2F42;
                     font-size: 18px;
-                    font-family: Raleway;
+                    font-family:'Raleway',sans-serif;
                     font-weight: 700;
                     text-transform: uppercase;
-                    line-height: 1.16;
+                    line-height: 1.17;
                     letter-spacing: 0.03em;
                     word-wrap: break-word}
         
@@ -111,13 +111,13 @@ a {text-decoration: none;}
                 word-wrap: break-word;
                 background-color:#4D5AE5}
 
-        .oder-servise-btn:hover {color: #404bbf;}
+        .oder-servise-btn:hover {color: #404bbf; background-color: #404BBF}
 
-        .oder-servise-btn:focus {color: #404bbf;}
+        .oder-servise-btn:focus {color: #404bbf; background-color: #404BBF}
 
         .values {background-color: #F4F4FD;}
 
-        .values-list {}
+        .values-list {background-color: #F4F4FD}
 
         .values-item {}
 
