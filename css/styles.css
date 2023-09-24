@@ -30,7 +30,8 @@ a {text-decoration: none;}
                     letter-spacing: 0.03em;
                     }
         
-                .header-list {}
+                .header-list{}
+                .header-list:focus {color: #404BBF;}
                 
         
                 .heder-list-item:focus {color: #404bbf;}
@@ -44,9 +45,8 @@ a {text-decoration: none;}
                     line-height: 1.5;
                     letter-spacing: 0.02em;}
                     
-                .header-list-link:focus {color: #404bbf;}
-                
                 .heder-list-link:hover {color: #404bbf;}
+                .heder-list-link:focus {color: #404bbf;}
 
             
                 .adress {font-style: normal}
