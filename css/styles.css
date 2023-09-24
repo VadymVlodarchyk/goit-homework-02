@@ -31,8 +31,13 @@ a {text-decoration: none;}
                     word-wrap: break-word}
         
                 .header-list {}
+
+                .header-list:focus {color: #404bbf;}
         
                 .heder-list-item:focus {color: #404bbf;}
+                                
+                
+
         
                 .heder-list-link {
                     color: #2E2F42;
@@ -44,6 +49,7 @@ a {text-decoration: none;}
                     word-wrap: break-word}
                     
                 .heder-list-link:hover {color: #404bbf;}
+
                 .header-list-link:focus { color: #404bbf;}
         
                 .adress {font-style: normal}
