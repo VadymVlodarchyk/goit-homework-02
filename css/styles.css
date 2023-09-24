@@ -54,6 +54,8 @@ a {text-decoration: none;}
                 .adress {font-style: normal}
         
                 .adress-list {}
+                
+                .adress-list:focus {color: #404BBF;}
         
                 .adress-mail {}
         
