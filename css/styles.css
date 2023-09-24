@@ -7,9 +7,7 @@ ul {list-style: none;}
 
 a {text-decoration: none;}
 /* =========================HEDER========================*/
-                .header {}
-        
-                .header-navigation {}
+            
         
                 .header-navigation-link {color: #4D5AE5;
                     font-size: 18px;
@@ -30,14 +28,9 @@ a {text-decoration: none;}
                     letter-spacing: 0.03em;
                     }
         
-                .header-list{}
+                
 
-                .header-list:focus {color: #404BBF;}
-                
-                
-        
-                .heder-list-item:focus {color: #404bbf;}
-                
+
                                 
                 .heder-list-link {
                     color: #2E2F42;
@@ -53,9 +46,6 @@ a {text-decoration: none;}
             
                 .adress {font-style: normal}
         
-                .adress-list {}
-        
-                .adress-mail {}
         
                 .adress-mail-link {
                     
