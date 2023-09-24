@@ -44,7 +44,7 @@ a {text-decoration: none;}
                     word-wrap: break-word}
                     
                 .heder-list-link:hover, .header-list-link:focus {color: #404bbf;}
-
+                .header-list-link:focus {color: #404bbf;}
         
                 .adress {font-style: normal}
         
@@ -221,7 +221,7 @@ a {text-decoration: none;}
     font-family:'Raleway', sans-serif;
     font-weight: 700;
     text-transform: uppercase;
-    line-height: 1.16;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     word-wrap: break-word}
