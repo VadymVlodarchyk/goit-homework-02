@@ -53,7 +53,13 @@ a {text-decoration: none;}
             
                 .adress {font-style: normal}
         
-                .adress-list {}
+                .adress-list {color: #434455;
+                    font-size: 16px;
+                    font-family: Roboto;
+                    font-weight: 400;
+                    line-height: 1.5;
+                    letter-spacing: 0.02em;}
+                    .adress-list:hover {color: #404BBF;}
                 
                 .adress-list:focus {color: #404BBF;}
         
