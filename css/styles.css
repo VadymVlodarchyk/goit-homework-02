@@ -137,7 +137,7 @@ a {text-decoration: none;}
             letter-spacing: 0.02em;
             word-wrap: break-word}
 
-        .our-team {}
+        .our-team {background-color: #F4F4FD;}
 
         .our-team-title {
             text-align: center;
@@ -215,7 +215,7 @@ a {text-decoration: none;}
 
 .footer-link {}
 
-.footer-link-web {
+.footer-link {
     color: #4D5AE5;
     font-size: 18px;
     font-family:'Raleway', sans-serif;
